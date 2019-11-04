@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ajithcravi/Weather-App-V-2.0/issues"
   },
-  "homepage": "https://github.com/ajithcravi/Weather-App-V-2.0#readme"
+  "homepage": "https://github.com/ajithcravi/Weather-App-V-2.0#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
