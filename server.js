@@ -1,14 +1,11 @@
 const express = require('express');
 const app = express();
-const bodyParser = require('body-parser');
 
-app.use(bodyParser.urlencoded({extended: false}))
-
-app.use(bodyParser.json())
-
-// respond with "hello world" when a GET request is made to the homepage
+app.set('view engine', 'ejs');
 app.get('/', function (req, res) {
-  res.send('hello world')
-})
+  res.render('index')
+});
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'));
+app.listen(3000, () => {
+    console.log('Example app listening on port 3000!')
+});
