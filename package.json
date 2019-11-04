@@ -1,0 +1,23 @@
+{
+  "name": "weather_app_v2.0",
+  "version": "1.0.0",
+  "description": "It is a weather app built using node and express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajithcravi/Weather-App-V-2.0.git"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "Ajith C Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajithcravi/Weather-App-V-2.0/issues"
+  },
+  "homepage": "https://github.com/ajithcravi/Weather-App-V-2.0#readme"
+}
