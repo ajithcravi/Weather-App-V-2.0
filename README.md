@@ -1,2 +1,2 @@
-# Annie Aaron Wedding
-A celebration in a family gives pleasure to all the Members of the family. Friends and relatives also attend the occasion and share the pleasure. Pleasure multiplies when there is a wedding in the family. This is a website for one such wedding. Its my sister's wedding.
+# Weather App V 2.0
+Weather is one of the major factors that affects our day-to-day routine. Starting from a good morning till a lovely night, weather plays an important role. There are tonnes of methods to forecast this weather but only a few brings the result whenever and wherever we want. This project is an advanced version such a web application(Weather App V 1.0), designed to give the forecasted weather result to the end user.
