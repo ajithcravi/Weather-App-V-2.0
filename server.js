@@ -8,8 +8,8 @@ app.use(express.static('public'));
 app.set('view engine', 'ejs');
 
 app.post('/', (req, res) => {
-  res.render('index');
-  console.log(req.body.city);
+  let city = req.body.city;
+  let 
 });
 
 app.listen(3000, () => {
