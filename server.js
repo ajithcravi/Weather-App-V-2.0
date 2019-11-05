@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
+const api = require('./private/apiKeys');
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static('public'));
