@@ -29,9 +29,6 @@ Follow steps below to download and run this project in local machine
 
 ![Result](images/Weather.png)
 
-4. CLick on the units to change from one to another
-
-![Unit Change](images/Unit.png)
 
 ## Author
 
