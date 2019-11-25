@@ -17,7 +17,7 @@ Follow steps below to download and run this project in local machine
 
 ## Working
 
-1. Open the index.html to start the application
+1. Open the project folder in code editor and type 'node server.js' in the terminal to start the application
 
 ![Home Screen](images/Home.png)
 
